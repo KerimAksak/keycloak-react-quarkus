@@ -44,7 +44,7 @@ Steps to import <b>demo-realm-export.json</b> file into Keycloak.
 
 - [Select File] -> demo-realm-export.json
 
-![keycloak-realm-config](.../img/keycloak-realm-config.png)
+![keycloak-realm-config](https://raw.githubusercontent.com/KerimAksak/keycloak-react-quarkus/main/img/keycloak-realm-config.png)
 
 ## Installation - Frontend
 
